@@ -8,7 +8,7 @@ Sobre o projeto: O projeto é uma versão de teste de um sensor de ritmo cardía
 
 Explicação: O ESP32 é conectado à internet para que seja feito os requerimentos HTTP para a entrega de dados e informações ao ThingSpeak, o ThingSpeak pega os dados de periodo em periodo e forma um gráfico com ele para administrar a saúde e desempenho das jogadoras
 
-
+Instruções: Ligue o programa e coloque o dedo indicador no dispositivo para medir seu bombeamento de sangue 
 
 
 # https://youtu.be/V5vfVb1930Y
